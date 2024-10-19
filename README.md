@@ -51,13 +51,6 @@ This project extends a basic chat application to implement a "salon" feature, al
 - `salonData.txt`: Stores the names and passwords of salons.
 - `salon{id}.txt`: Stores messages exchanged in the salon, where `{id}` corresponds to the salon ID.
 
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or additional features, feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
