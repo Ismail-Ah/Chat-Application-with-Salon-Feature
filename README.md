@@ -20,7 +20,7 @@ This project extends a basic chat application to implement a "salon" feature, al
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chat-salon.git
+   git clone [https://github.com/yourusername/chat-salon.git](https://github.com/Ismail-Ah/Chat-Application-with-Salon-Feature.git)
    ```
 2. Navigate to the project directory:
    ```bash
